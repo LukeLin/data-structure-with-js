@@ -11,7 +11,7 @@
  *
  */
 
-    // 找的链式表示
+// 栈的链式表示
 function Stack() {
     this.top = null;
     this.length = 0;
