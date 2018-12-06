@@ -264,7 +264,7 @@ function partition(sqList, low, high, comp) {
     let temp;
     let i = low;
     let j = high + 1;
-    let rand = Math.floor(Math.random() * (high - low)) + low + 1;
+    let rand =  Math.floor(Math.random()*(high-low+1)+low);
     //let rand = (low + high) >> 1;
 
     temp = sqList[low];
