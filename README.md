@@ -20,12 +20,12 @@ Classic and high performance data structures implemented in javascript.
 * Array
     * [x] [CrossList](./src/Array/CrossList.js)
     * [x] [TSMatrix](./src/Array/TSMatrix.js)
-    * [x] [algorithms](./src/Array/algorithms.js)
+    * [x] [Algorithms](./src/Array/algorithms.js)
 
 * Binary Tree
     * [x] [BinaryTree](./src/BinaryTree/BinaryTree.js)
-    * [x] [huffManCoding](./src/BinaryTree/huffManCoding.js)
-    * [x] [backtracking](./src/algorithms/backtracking.js)
+    * [x] [HuffManCoding](./src/BinaryTree/huffManCoding.js)
+    * [x] [Backtracking](./src/algorithms/backtracking.js)
 
 * Generalized List
     * [x] [GList](./src/GeneralizedList/GList.js)
@@ -56,12 +56,12 @@ Classic and high performance data structures implemented in javascript.
     * [x] [HeapString](./src/String/HString.js)
     * [x] [LString](./src/String/LString.js)
     * [x] [SString](./src/String/SString.js)
-    * [x] [algorithms](./src/String/string-algorithms.js)
+    * [x] [Algorithms](./src/String/string-algorithms.js)
 
 * Search
-    * [x] [sequentialSearch](./src/Search/sequentialSearch.js)
-    * [x] [binarySearch](./src/Search/BinarySearch.js)
-    * [x] [fibonacciSearch](./src/Search/fibonacciSearch.js)
+    * [x] [SequentialSearch](./src/Search/sequentialSearch.js)
+    * [x] [SinarySearch](./src/Search/BinarySearch.js)
+    * [x] [FibonacciSearch](./src/Search/fibonacciSearch.js)
     * [x] [SecondOptimalSearchTree](./src/Search/SOSTree.js)
     * [x] [BinarySortedTree](./src/Search/BinarySortedTree.js)
     * [x] [AVLTree](./src/Search/AVLTree.js)
